@@ -26,5 +26,7 @@
                 "Versatile\\QueryBuilder\\QueryBuilderServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
